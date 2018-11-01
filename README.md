@@ -23,7 +23,7 @@ __For each record it is provided:__
 - An identifier of the subject who carried out the experiment.
 
 
-## Script run_analysis.R
+## Getting Started
 __Run run_analysis.R to start__
 
 This script will :
