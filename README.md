@@ -23,7 +23,11 @@ __For each record it is provided:__
 - An identifier of the subject who carried out the experiment.
 
 
-## Getting Started
+## Files 
+* `CodeBook.md` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+* `run_analysis.R` begin script
+
+## Running Script
 __Run run_analysis.R to start__
 
 This script will :
