@@ -24,7 +24,7 @@ __For each record it is provided:__
 
 
 ## Files 
-* `CodeBook.md` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+* `CodeBook.md` a code book that describes the variables, the data, and any transformations performed in script
 * `run_analysis.R` begin script
 * `ResultData.txt` the result data exported by `run_analysis.R` script
 
