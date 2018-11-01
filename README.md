@@ -29,7 +29,8 @@ __For each record it is provided:__
 * `ResultData.txt` the result data exported by `run_analysis.R` script
 
 ## Running Script
-__Run `run_analysis.R` in R / RStudio to start__
+Run `run_analysis.R` in R / RStudio to start
+
 #### This script will : ####
 * Download datasets from url specified, and unzip.
 * Assigning all required file to dataset variable.
