@@ -26,10 +26,9 @@ __For each record it is provided:__
 ## Files 
 * `CodeBook.md` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 * `run_analysis.R` begin script
-
+* `ResultData.txt` the result data exported by `run_analysis.R` script
 ## Running Script
-__Run run_analysis.R to start__
-
+__Run `run_analysis.R` in R / RStudio to start__
 This script will :
 * Download datasets from url specified, and unzip.
 * Assigning all required file to dataset variable.
